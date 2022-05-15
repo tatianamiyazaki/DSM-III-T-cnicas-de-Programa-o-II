@@ -1,0 +1,7 @@
+1) Se não houvesse herança em Java, como você poderia reaproveitar o código de outra classe?
+2) Uma discussão muito atual é sobre o abuso no uso da herança. Algumas pessoas usam herança apenas
+para reaproveitar o código, quando poderiam ter feito uma composição. Procure sobre herança versus
+composição.
+3) Mesmo depois de reescrever um método da classe mãe, a classe filha ainda pode acessar o método antigo.
+Isto é feito através da palavra chave super.método(). Algo parecido ocorre entre os construtores das classes,
+o que?
